@@ -1,0 +1,40 @@
+body {
+  background-color: #D6E2F0;
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Outfit";
+}
+
+
+.attribution, a {
+  font-size: 11px;
+  text-align: center;
+  color: #3E52A3;
+}
+
+.hashBody {
+  background-color: white;
+  border-radius: 5%;
+  width: 22rem;
+  margin: auto;
+  top: 10rem;
+  padding-bottom: 5rem;
+}
+
+.mainimg {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 5%;
+  margin-top: 20px;
+}
+
+.top{
+  font-weight: 700;
+  font-size: 25px;
+  margin: 20px 30px;
+}
+
+.bot{
+  margin: 0 35px;
+  opacity: 0.5;
+}
